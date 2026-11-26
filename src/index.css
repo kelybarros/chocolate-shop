@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@import "@fontsource/questrial/400.css";
+@import "@fontsource/pinyon-script/400.css"; 
+
+@theme {
+  --font-body: "Questrial", sans-serif;
+  --font-serif: "Pinyon Script", cursive;
+  --color-details: #b0262c;
+  --color-logo: #4a0a0d;
+  --color-black: #000;
+  --color-white: #F7E7CE;
+  --color-card-brown: #92563e;
+  --color-card-green: #514c32;
+  --color-card-red: #a73c45;
+  --color-card-blue: #343949;
+  --color-background: #eedbc2;
+  --color-accent: #D4A359;  
+  --color-accent-dark: #8C5E1A;
+}
